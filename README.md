@@ -1,6 +1,6 @@
 # ⚡ System.init(Ganesh_Yerramsetti)
 
-> **Current_Orbit:** MS AIMS @ Hochschule Coburg 🇩🇪 ➔ USST Shanghai 🇨🇳  
+> **Current_Orbit:** ME AIMS @ Hochschule Coburg 🇩🇪 ➔ USST Shanghai 🇨🇳  
 > **Specialization:** Analytical Instruments | Data-Driven Engineering | Robotics  
 > **Core_Philosophy:** "Identifying the governing equations of the unknown."
 
