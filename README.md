@@ -1,4 +1,4 @@
-# ⚡ System.init(Ganesh_Yerramsetti)
+# ⚡ System.init(Ganesh_Yerramsetti) Probing the unknown and uncertainty signals.
 
 > **Current_Orbit:** ME AIMS @ Hochschule Coburg 🇩🇪 ➔ USST Shanghai 🇨🇳  
 > **Specialization:** Analytical Instruments | Data-Driven Engineering | Robotics  
