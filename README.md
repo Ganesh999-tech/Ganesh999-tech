@@ -31,8 +31,7 @@
 
 ### 📊 System.Metrics()
 
-![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganesh999-tech&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh999-tech&layout=compact&theme=tokyonight)
+![Ganesh's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Ganesh999-tech&show_icons=true&theme=tokyonight)
 
 ---
 
