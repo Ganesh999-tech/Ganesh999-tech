@@ -38,6 +38,6 @@
 ### 🌐 Connectivity
 - **Location:** Shanghai, China (USST Exchange)  
 - **LinkedIn:** [www.linkedin.com/in/ganesh-yerramsetti-7a72043a7]  
-- **Status:** Open to research collaborations in Avionics & Sensor Tech.
+- **Status:** Open to research collaborations in Avionics, Med Tech & Sensor Tech.
 
 `System.exit(0); // See you in the commits.`
