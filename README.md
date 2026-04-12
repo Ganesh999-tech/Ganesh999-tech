@@ -9,7 +9,7 @@
 ### 🛰️ Engineering.Capabilities()
 
 * **Mathematics & Control:** SINDy (System Identification), SVD, FFT, PID, & Kalman Filters.
-* **Embedded Systems:** NVIDIA Jetson Orin Nano, Arduino RP2040, STM32.
+* **Embedded Systems:** NVIDIA Jetson Orin Nano, Arduino RP2040, STM32(Nucleo-H743ZI).
 * **Sensor Fusion:** LiDAR SLAM, IMU (MPU6050) Integration, Ultrasonic arrays.
 * **Data Science:** Signal Processing for Avionics & Space Telemetry.
 
@@ -18,6 +18,8 @@
 * **[SINDy-Nav AGV]:** Developing a LiDAR-based autonomous vehicle using Sparse Identification of Nonlinear Dynamics for predictive control.
 * **[Lunar_Analysis]:** Processing Chandrayaan-3 telemetry data to model soil thermal conductivity via data-driven mechanics.
 * **[Avionics_GNC]:** Exploring Guidance, Navigation, and Control algorithms for high-speed edge computing.
+* **[Physics_Validation]:** Validating pendulum dynamics by applying SINDy to raw IMU data from Google Pixel sensors.
+* **[CGM_Sync]:** Synchronizing Dexcom and Libre glucose sensor data using cross-correlation and pchip interpolation (PhysioNet CGMacros).
 
 ### 🛠️ Hardware_Stack
 `[■■■■■■■■■□] NVIDIA Jetson Orin Nano`  
