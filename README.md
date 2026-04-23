@@ -1,43 +1,49 @@
-# ⚡ System.init(Ganesh_Yerramsetti) Probing the unknown and uncertainty signals.
+⚡ System.init(Ganesh_Yerramsetti)
 
-> **Current_Orbit:** ME AIMS @ Hochschule Coburg 🇩🇪 ➔ USST Shanghai 🇨🇳  
-> **Specialization:** Analytical Instruments | Data-Driven Engineering | Robotics  
-> **Core_Philosophy:** "Identifying the governing equations of the unknown."
+Probing the unknown and identifying the governing equations of uncertainty.
 
----
+    Current_Orbit: ME AIMS @ Hochschule Coburg 🇩🇪 ➔ USST Shanghai 🇨🇳
 
-### 🛰️ Engineering.Capabilities()
+    Trajectory: Full-Stack Sensor Systems Engineer
 
-* **Mathematics & Control:** SINDy (System Identification), SVD, FFT, PID, & Kalman Filters.
-* **Embedded Systems:** NVIDIA Jetson Orin Nano, Arduino RP2040, STM32(Nucleo-H743ZI).
-* **Sensor Fusion:** LiDAR SLAM, IMU (MPU6050) Integration, Ultrasonic arrays.
-* **Data Science:** Signal Processing for Avionics & Space Telemetry.
+    Core_Philosophy: "From Silicon to Signal—Identifying the physics of the unknown."
 
-### 🧪 Ongoing_Research & Deployments
+🛰️ Engineering.Capabilities()
 
-* **[SINDy-Nav AGV]:** Developing a LiDAR-based autonomous vehicle using Sparse Identification of Nonlinear Dynamics for predictive control.
-* **[Lunar_Analysis]:** Processing Chandrayaan-3 telemetry data to model soil thermal conductivity via data-driven mechanics.
-* **[Avionics_GNC]:** Exploring Guidance, Navigation, and Control algorithms for high-speed edge computing.
-* **[Physics_Validation]:** Validating pendulum dynamics by applying SINDy to raw IMU data from Google Pixel sensors.
-* **[CGM_Sync]:** Synchronizing Dexcom and Libre glucose sensor data using cross-correlation and pchip interpolation (PhysioNet CGMacros).
+    The Intelligence Layer: SINDy (Sparse Identification of Nonlinear Dynamics), SVD, FFT, PID & Kalman Filters.
 
-### 🛠️ Hardware_Stack
-`[■■■■■■■■■□] NVIDIA Jetson Orin Nano`  
-`[■■■■■■■■□□] C++ / Embedded C`  
-`[■■■■■■■■■□] MATLAB / Simulink`  
-`[■■■■■■■□□□] Python / Edge AI`
+    The Physical Layer: IC & MEMS Packaging, Semiconductor Materials, Thermal Management, and Reliability (MIL-STD-883).
 
----
+    Embedded Systems: NVIDIA Jetson Orin Nano, STM32 (Nucleo-H743ZI), Arduino RP2040.
 
-### 📊 System.Metrics()
+    Sensor Fusion: LiDAR SLAM, IMU Integration, and Lunar Telemetry Analysis.
 
-![Ganesh's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Ganesh999-tech&show_icons=true&theme=tokyonight)
+🧪 Ongoing_Research & Deployments
 
----
+    [Hardware-Aware AI]: Bridging MEMS Packaging physics with SINDy to create "Self-Aware" sensors that compensate for packaging-induced nonlinearities and thermal drift.
 
-### 🌐 Connectivity
-- **Location:** Shanghai, China (USST Exchange)  
-- **LinkedIn:** [www.linkedin.com/in/ganesh-yerramsetti-7a72043a7]  
-- **Status:** Open to research collaborations in Avionics, Med Tech & Sensor Tech.
+    [SINDy-Nav AGV]: Developing a LiDAR-based autonomous vehicle using data-driven predictive control.
 
-`System.exit(0); // See you in the commits.`
+    [Physics_Validation]: Validating pendulum dynamics by applying SINDy to raw IMU data from Google Pixel sensors.
+
+    [SINDy-Mass Estimation]: Developing a data-driven framework (Sparse Identification of Nonlinear Dynamics) for Mass Depletion Estimation in simulated aircraft. Identifying time-     varying plant dynamics to maintain control authority as mass decreases.
+
+🛠️ Hardware_Stack
+
+[■■■■■■■■■□] NVIDIA Jetson Orin Nano / Edge AI
+
+[■■■■■■■■■□] MATLAB / Simulink / SINDy Framework
+
+[■■■■■■■■□□] C++ / Embedded C / STM32 Ecosystem
+
+[■■■■■■■□□□] IC Fabrication & Packaging (USST)
+📊 System.Metrics()
+🌐 Connectivity
+
+    Location: Shanghai, China (USST Exchange) ➔ Coburg, Germany (M.Eng AIMS)
+
+    LinkedIn: Ganesh Yerramsetti
+
+    Status: Seeking Internship/Collaboration in Avionics, Semiconductor Systems, & Sensor Tech.
+
+System.exit(0); // Hardware is the ground truth; Math is the map.
