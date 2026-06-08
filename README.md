@@ -36,6 +36,10 @@ As an AIMS engineer, I focus on the intersection of Application Development, Har
 | **Integration & Interfacing** | I2C/SPI interfacing, Jetson/STM32 | PCB integration, Microcontroller wiring | Sensor placement, Telemetry acquisition |
 | **Application Development** | Point-cloud processing (SLAM), ROS 2 | Navigation (GNC), Sensor fusion, PID control | Environment monitoring, State estimation |
 | **Testing & Calibration** | Benchmarking, Distance validation | Thermal drift compensation, Allan variance | Thermomechanical analysis, Data-driven modeling (SINDy, FFT) |
+
+
+
+
 📊 System.Metrics()
 🌐 Connectivity
 
